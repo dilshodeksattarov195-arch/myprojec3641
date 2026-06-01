@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerrave",
+        "uuid": 4372841,
+        "checksum": "8ki1pp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
